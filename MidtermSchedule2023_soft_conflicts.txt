@@ -1,5 +1,5 @@
 ﻿Soft conflicts of MidtermSchedule2023.fet
-Generated with FET 6.9.5 on 11/16/23 8:35 AM
+Generated with FET 6.9.5 on 11/16/23 3:19 PM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
